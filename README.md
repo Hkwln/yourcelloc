@@ -1,4 +1,4 @@
-[H1] YourCelLoc
+# YourCelLoc
 
 ### This is just a simple script which estimates the cell location of your phone
 
