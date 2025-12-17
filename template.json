@@ -1,0 +1,37 @@
+example request:
+{
+    "token": "zee0d36c5ef71f",
+    "radio": "gsm",
+    "mcc": 310,
+    "mnc": 404,
+    "cells": [{
+        "lac": 7033,
+        "cid": 17811
+    }, {
+        "lac": 7033,
+        "cid": 17812,
+        "signal": -60
+    }, {
+        "lac": 7033,
+        "cid": 18513
+    }, {
+        "lac": 7033,
+        "cid": 16383
+    }, {
+        "lac": 7033,
+        "cid": 12812
+    }, {
+        "lac": 7033,
+        "cid": 12811
+    }],
+    "address": 1
+}
+example response:
+{
+    "status": "ok",
+    "balance": 100,
+    "lat": 39.573601,
+    "lon": -105.005673,
+    "accuracy": 841,
+    "address": "Littleton, CO 80120, USA"
+}

@@ -1,0 +1,5 @@
+#all the gitignores for this application
+
+*.txt
+*.csv
+
